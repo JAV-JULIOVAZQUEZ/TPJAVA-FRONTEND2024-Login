@@ -19,7 +19,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
         //alert('Inicio de sesión exitoso!');
         alert('INGRESO EXITOSO');
         // Por ejemplo, redireccionar a otra página
-        window.location.href = 'principal.html';
+        window.location.href = 'index.html';
     }
 });
         
