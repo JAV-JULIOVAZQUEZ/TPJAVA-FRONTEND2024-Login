@@ -57,3 +57,7 @@ button:hover {
   margin-top: 10px;
   display: none;
 }
+
+body {
+  background-color: lightblue;
+}
